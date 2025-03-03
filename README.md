@@ -6,8 +6,9 @@ This repository contains tasks and projects completed during my internship at Sk
 * JavaScript
 ## Task details
 Create an interactive and
-user-friendly stopwatch web
-application.
+user-friendly **stopwatch web
+application.**
+
 Implement functions for
 starting, pausing, and
 resetting the stopwatch, as
@@ -15,4 +16,5 @@ well as tracking and
 displaying lap times, users
 can accurately measure and
 record time intervals.
+
 ---
