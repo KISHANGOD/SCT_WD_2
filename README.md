@@ -4,7 +4,7 @@ This repository contains tasks and projects completed during my internship at Sk
 * HTML
 * CSS
 * JavaScript
-### Task details
+## Task details
 Create an interactive and
 user-friendly stopwatch web
 application.
@@ -15,3 +15,4 @@ well as tracking and
 displaying lap times, users
 can accurately measure and
 record time intervals.
+---
