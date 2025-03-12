@@ -17,4 +17,14 @@ displaying lap times, users
 can accurately measure and
 record time intervals.
 
----
+## How to run
+Click on the deployment link in the About section of this repo
+
+## Key Features:
+
+✅ **Start, Stop & Reset Buttons:** Control the timer at your fingertips! 🔘 <br>
+✅ **Lap Time Recording:** Capture split times without stopping the stopwatch. 🏃‍♂️ <br>
+✅ **Real-Time Display:** The timer updates live, showing minutes, seconds, and milliseconds. ⏳ <br>
+✅ **Responsive Design:** Works seamlessly across all devices (desktop, tablet, mobile). 📱
+
+🌟 Feel free to explore and provide feedback
